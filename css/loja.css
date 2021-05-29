@@ -1,0 +1,26 @@
+html { 
+    background: url("../imagens/desenho-loucao.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+table {
+    border-collapse: collapse;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: rgb(102, 102, 102);
+    color: white;
+    font-style: bold;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
